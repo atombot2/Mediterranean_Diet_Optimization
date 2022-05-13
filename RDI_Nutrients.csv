@@ -1,0 +1,30 @@
+Nutr_No,Nutrient,Units,RDI
+208,Energy,kcal,1200
+203,Protein,g,120
+205,"Carbohydrate, by difference",g,100
+204,Total lipid (fat),g,120
+318,"Vitamin A, IU",IU,3000
+401,"Vitamin C, total ascorbic acid",mg,90
+301,"Calcium, Ca",mg,1300
+303,"Iron, Fe",mg,18
+324,Vitamin D,IU,600
+323,Vitamin E (alpha-tocopherol),mg,15
+430,Vitamin K (phylloquinone),mcg,120
+404,Thiamin,mg,1.2
+405,Riboflavin,mg,1.3
+406,Niacin,mg,16
+415,Vitamin B-6,mg,1.7
+417,"Folate, total",mcg,400
+418,Vitamin B-12,mcg,2.4
+410,Pantothenic acid,mg,5
+305,"Phosphorus, P",mg,1250
+304,"Magnesium, Mg",mg,420
+309,"Zinc, Zn",mg,11
+317,"Selenium, Se",mcg,55
+312,"Copper, Cu",mg,0.9
+315,"Manganese, Mn",mg,2.3
+306,"Potassium, K",mg,4700
+421,"Choline, total",mg,550
+621,22:6 n-3 (DHA),g,0.5
+629,20:5 n-3 (EPA),g,0.5
+851,"18:3 n-3 c,c,c (ALA)",mg,1.6
